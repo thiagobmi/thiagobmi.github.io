@@ -58,7 +58,7 @@ Desconsiderando os fatores políticos e sociais que desencadearam esse acontecim
 6. Reinicie o navegador.
 
 ## 4. Bloquear X em um Roteador
-Bloquear um site diretamente no roteador é uma maneira eficaz de impedir que qualquer dispositivo conectado à rede acesse o X. Esse pode ser um ótimo método para tornar sua casa um ambienta mais tranquilo e com menos discussões desnecessárias.
+Bloquear um site diretamente no roteador é uma maneira eficaz de impedir que qualquer dispositivo conectado à rede acesse o X. No entanto, o processo pode variar dependendo do modelo e fabricante do roteador. Abaixo, encontra-se um guia geral para bloquear sites em um roteador.
 
 ### Passo a passo:
 1. Acesse a interface do roteador inserindo o IP (geralmente `192.168.0.1` ou `192.168.1.1`) no navegador.
