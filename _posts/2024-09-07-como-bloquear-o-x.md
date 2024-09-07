@@ -72,17 +72,17 @@ Com essas instruções, você poderá bloquear o X (antigo Twitter) em qualquer 
 
 ## Como Esse Método Funciona?
 
-## 1. O que é o Arquivo **hosts**?
+### 1. O que é o Arquivo **hosts**?
 - O arquivo **hosts** é um arquivo de sistema usado para mapear nomes de domínio para endereços IP localmente.
 - Ele funciona de forma similar a um DNS, mas é consultado localmente no dispositivo.
 
-## 2. Como o Bloqueio Funciona?
+### 2. Como o Bloqueio Funciona?
 - Quando você adiciona uma entrada como `127.0.0.1 x.com` no arquivo **hosts**, o sistema redireciona todas as solicitações para esse domínio ao IP **127.0.0.1** (localhost).
 - O **localhost** se refere ao próprio dispositivo. Como não há servidor rodando localmente para responder, a solicitação falha.
 
-### Resultado:
+#### Resultado:
 - Tentativas de acessar o site resultam em erro, como "Página não encontrada" ou "Conexão recusada", pois o navegador tenta acessar o próprio dispositivo sem sucesso.
 
-## 3. Prioridade do Arquivo **hosts** sobre DNS:
+### 3. Prioridade do Arquivo **hosts** sobre DNS:
 - O arquivo **hosts** tem prioridade sobre o DNS.
 - Se um domínio estiver no arquivo **hosts**, o sistema o redireciona localmente antes de consultar qualquer servidor DNS na internet.
