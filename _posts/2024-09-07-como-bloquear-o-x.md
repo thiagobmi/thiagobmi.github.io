@@ -60,7 +60,7 @@ Desconsiderando os fatores políticos e sociais que desencadearam esse acontecim
 6. Reinicie o navegador.
 
 ## 4. Bloquear X em um Roteador
-Se você deseja bloquear o site para todos os dispositivos na rede, pode fazê-lo nas configurações do seu roteador.
+Bloquear um site diretamente no roteador é uma maneira eficaz de impedir que qualquer dispositivo conectado à rede acesse o X. Esse pode ser um ótimo método para tornar sua casa um ambienta mais tranquilo e com menos discussões desnecessárias.
 
 ### Passo a passo:
 1. Acesse a interface do roteador inserindo o IP (geralmente `192.168.0.1` ou `192.168.1.1`) no navegador.
