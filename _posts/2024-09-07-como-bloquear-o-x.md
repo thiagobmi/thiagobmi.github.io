@@ -6,7 +6,7 @@ tags: [Network, Security, X]
 author: thiagobmi
 ---
 
-# Como Bloquear o X Nos Seus Dispositivos
+## Como Bloquear o X Nos Seus Dispositivos
 
 Recentemente, o X (antigo Twitter) foi foco de diversas controvérsias que resultaram no bloqueio da plataforma para usuários brasileiros. A decisão foi tomada pelo ministro do Supremo Tribunal Federal (STF), Alexandre de Moraes, que afirmou que a rede social descumpriu ordens judiciais de remover conteúdos considerados ofensivos e ameaçadores. A situação se agravou após Elon Musk, atual proprietário do X, ordenar o fechamento do escritório da empresa no Brasil.
 
