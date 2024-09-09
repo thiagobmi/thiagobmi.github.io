@@ -43,7 +43,7 @@ No momento, ainda não é possível prever quanto tempo durará o bloqueio, que 
 ## 3. Bloqueando o X no macOS
 ### Passo a passo:
 1. Abra o **Terminal**.
-2. Use o comando abaixo para abrir o arquivo `hosts`:
+2. Use o comando abaixo para abrir o arquivo `hosts` usando o nano:
    ```bash
    sudo nano /etc/hosts
    ```
