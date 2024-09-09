@@ -1,5 +1,5 @@
 ---
-title: Como Manter o X Bloqueado Nos Seus Dispositivos
+title: Como manter o X bloqueado nos seus dispositivos
 date: 2024-09-07 14:33:00 -0300
 categories: [Network, Security, Social Media]
 tags: [Network, Security, X]
