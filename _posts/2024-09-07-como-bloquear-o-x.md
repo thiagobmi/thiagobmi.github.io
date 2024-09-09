@@ -1,17 +1,19 @@
 ---
-title: Como Bloquear o X Nos Seus Dispositivos
+title: Como Manter o X Bloqueado Nos Seus Dispositivos
 date: 2024-09-07 14:33:00 -0300
-categories: [Network, Security]
+categories: [Network, Security, Social Media]
 tags: [Network, Security, X]
 author: thiagobmi
 ---
 
-Recentemente, o X (antigo Twitter) foi foco de diversas controvérsias que resultaram no bloqueio da plataforma para usuários brasileiros. A decisão foi tomada pelo ministro do Supremo Tribunal Federal (STF), Alexandre de Moraes, que afirmou que a rede social descumpriu ordens judiciais de remover conteúdos considerados ofensivos e ameaçadores. A situação se agravou após Elon Musk, atual proprietário do X, ordenar o fechamento do escritório da empresa no Brasil.
+Recentemente, o X (antigo Twitter) foi foco de diversas controvérsias que resultaram no bloqueio da plataforma para usuários brasileiros. A decisão foi tomada pelo ministro do Supremo Tribunal Federal (STF), Alexandre de Moraes, que afirmou que a rede social descumpriu ordens judiciais de remover perfis e conteúdos considerados criminosos. A situação se agravou após Elon Musk, atual proprietário do X, ordenar o fechamento do escritório da empresa no Brasil.
 
-Desconsiderando os fatores políticos e sociais que desencadearam esse acontecimento, ficar alguns dias sem acesso ao X se tornou em uma ótima experiência. Além de consumir menos conteúdos tóxicos e inúteis, pude focar em atividades mais saudáveis e produtivas. Por isso, decidi bloquear o X em todos os meus dispositivos. Neste post, vou mostrar como fiz isso e como você pode fazer o mesmo.
+Desconsiderando os fatores políticos e sociais que desencadearam esse acontecimento, ficar alguns dias sem acesso ao X se tornou em uma ótima experiência. Além de consumir menos conteúdos tóxicos e inúteis, pude focar em atividades mais saudáveis e produtivas.
+
+No momento, ainda não é possível prever quanto tempo durará o bloqueio, que pode se estender por dias ou até anos, dependendo das decisões de Musk e Moraes. Por isso, decidi bloquear o X em todos os meus dispositivos e fazer um tutorial ensinando quem quiser fazer o mesmo.
 
 
-## 1. Bloquear X no Windows
+## 1. Bloqueando o X no Windows
 ### Passo a passo:
 1. Abra o **Bloco de Notas** como administrador.
 2. Navegue até o arquivo `hosts` no caminho: `C:\Windows\System32\drivers\etc\hosts`.
@@ -23,7 +25,7 @@ Desconsiderando os fatores políticos e sociais que desencadearam esse acontecim
 4. Salve o arquivo.
 5. Reinicie o navegador para aplicar as alterações.
 
-## 2. Bloquear X no Linux
+## 2. Bloqueando o X no Linux
 ### Passo a passo:
 1. Abra um terminal.
 2. Use o comando abaixo para abrir o arquivo `hosts` com privilégios de superusuário:
@@ -38,7 +40,7 @@ Desconsiderando os fatores políticos e sociais que desencadearam esse acontecim
 4. Salve o arquivo pressionando `CTRL + O`, depois saia pressionando `CTRL + X`.
 5. Reinicie o navegador para aplicar as alterações.
 
-## 3. Bloquear X no macOS
+## 3. Bloqueando o X no macOS
 ### Passo a passo:
 1. Abra o **Terminal**.
 2. Use o comando abaixo para abrir o arquivo `hosts`:
@@ -57,7 +59,7 @@ Desconsiderando os fatores políticos e sociais que desencadearam esse acontecim
    ```
 6. Reinicie o navegador.
 
-## 4. Bloquear X em um Roteador
+## 4. Bloqueando o X em um Roteador
 Bloquear um site diretamente no roteador é uma maneira eficaz de impedir que qualquer dispositivo conectado à rede acesse o X. No entanto, o processo pode variar dependendo do modelo e fabricante do roteador. Abaixo, encontra-se um guia geral para bloquear sites em um roteador.
 
 ### Passo a passo:
